@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'components/appBar.dart';
 
 class HomeScreen extends StatelessWidget {
   @override
